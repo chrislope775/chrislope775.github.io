@@ -1,4 +1,4 @@
-# Hello World
+# Christopher Lopez's Portfolio
 
 This is my home page! My name is Your Christopher Lopez and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Electrical Engineer.
 
@@ -6,7 +6,7 @@ This is my home page! My name is Your Christopher Lopez and I am a student at [C
 
 My GitHub page is http://github.com/chrislope775.
 
-### CPSC 120
+### Favorite CPSC 120L Labs
 
 * Lab 3
 
